@@ -82,6 +82,11 @@ yhteisestä button-komponentista.
 <img src="assets/images/username_component_html.png" width="450">
 <p><strong>Kuva: HTML-toteutus “Choose your username” -modaalista</strong></p>
 
+<br>
+
+<img src="assets/images/valmiitModals/modal1.png" width="300">
+<img src="assets/images/valmiitModals/modal2.png" width="300">
+
 <hr style="border: 1px solid black; margin: 40px 0;">
 
 <p>
