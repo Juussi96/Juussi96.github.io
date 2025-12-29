@@ -47,16 +47,16 @@ hierarkian ja joustavan rakenteen.
 <img src="assets/images/chatWithDashboard.png" width="500">
 <p><strong>Kuva: Lopullinen chat näkymä</strong></p>
 <p>Chat ruudun toteutti toinen ryhmäläinen, itselle jäi silloin pientä säätöä esim. pitkien nimien kanssa ja tyylittelyt yms.</p>
-<img src="assets/images/chatWithPhone.png" width="150">
+<img src="assets/images/chatWithPhone.png" width="180">
 
-<p><strong>Kuva: Chat ruutu puhelimella</strong></p>
+<!-- <p><strong>Kuva: Chat ruutu puhelimella</strong></p> -->
 
-<img src="assets/images/chatName.png" width="350">
+<img src="assets/images/chatName.png" width="380">
 <p><strong>Tässä kuva pitkän nimen muokkaamisesta</strong></p>
 
 <img src="assets/images/nimenlyhennys.png" width="175">
 
-<img src="assets/images/exampleNames.png" width="300">
+<img src="assets/images/exampleNames.png" width="370">
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
@@ -141,7 +141,6 @@ keskittyy käytökseen.
 
 <img src="assets/images/liiketoiminta/Kutsukaveri1.jpg" width="270">
 <img src="assets/images/liiketoiminta/Kutsukaveri2.jpg" width="270">
-<img src="assets/images/liiketoiminta/uutiskirjeeee.jpg" width="300">
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
