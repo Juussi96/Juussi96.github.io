@@ -1,3 +1,5 @@
+<h2>Oppimiani asioita TC:n aikana</h2>
+
 <p>
 Oivalsin, että hyvin rakennetut Auto Layout -rakenteet tekevät komponenttien
 muokkaamisesta huomattavasti joustavampaa ja säästävät aikaa myöhemmässä vaiheessa.
@@ -87,3 +89,52 @@ Submit-painike aktivoituu vain, kun isFormValid on true.
 <img src="assets/images/validoinnit/code1.png" width="300">
 <img src="assets/images/validoinnit/code2.png" width="300">
 <img src="assets/images/validoinnit/code3.png" width="300">
+
+<hr style="border: 1px solid black; margin: 40px 0;">
+
+<h2>Reflektio, ja oppimisen yhteenveto</h2>
+
+<p>
+Projektin aikana suurin oppini oli siirtyminen visuaalisesta suunnittelusta
+rakenteelliseen ja komponenttipohjaiseen ajatteluun. Alussa lähestyin Figmaa
+lähinnä ulkoasun näkökulmasta, mutta opintojakson edetessä ymmärsin Auto Layoutin
+merkityksen käyttöliittymän skaalautuvuuden ja jatkokehityksen kannalta.
+</p>
+
+<p>
+Suunnittelemalla käyttöliittymän loogisina kokonaisuuksina (esim. header, chat,
+modaalit) sain paremman käsityksen siitä, miten suunnitelmat siirtyvät
+frontend-toteutukseen. Tämä helpotti Angular-työskentelyä ja vähensi
+rakenteellisia muutoksia myöhemmässä vaiheessa.
+</p>
+
+<p>
+Kaikkia suunniteltuja ominaisuuksia ei toteutettu sovelluksessa, mutta niiden
+mallintaminen oli silti tärkeä osa oppimisprosessia. Opin priorisoimaan
+ominaisuuksia aikataulun ja projektin tavoitteiden mukaan sekä hahmottamaan,
+mitkä ideat soveltuvat paremmin jatkokehitykseen.
+</p>
+
+<hr style="border: 1px solid black;">
+
+<h3>Toteutumattomat ideat</h3>
+
+<img src="assets/images/eitoteutunut/Errorpage404.png" width="300">
+<p><strong>Kuva: 404 error -sivun Figma-mockup</strong></p>
+<p>
+Suunnittelin 404 error -sivun osana kokonaisvaltaista käyttökokemusta, vaikka
+ominaisuutta ei toteutettu lopulliseen sovellukseen. Harjoitus auttoi
+ymmärtämään, että myös virhetilanteet ovat osa palvelun brändiä ja
+käyttäjäpolkua. Toteutus jätettiin pois aikataulusyistä.
+</p>
+
+<img src="assets/images/eitoteutunut/calling.png" width="300">
+<img src="assets/images/eitoteutunut/callcard.png" width="200">
+<p><strong>Kuva: Voice chat -toiminnallisuuden konseptimockup. Pienempi mallinnus eräänlaisesta kortista joka hoveroituisi sitten dashboardilla, kun puhelun on käytössä.</strong></p>
+
+<p>
+Mallinsin myös voice chat -toiminnallisuuden, jota ei toteutettu projektin
+aikana. Keskustelimme tiimin kanssa sen mahdollisesta roolista palvelun
+jatkokehityksessä. Tämä kehitti kykyäni hahmottaa tuotteen tulevaisuuden
+laajennusmahdollisuuksia ja miettiä ominaisuuksia tuotantoversiota ajatellen.
+</p>
