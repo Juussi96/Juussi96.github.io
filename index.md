@@ -139,9 +139,9 @@ tulee toteuttaa läpinäkyvästi ja neutraalisti, jotta yksilöitä ei lokeroida
 keskittyy käytökseen. 
 </p>
 
-<img src="assets/images/liiketoiminta/Kutsukaveri1.jpg" width="250">
-<img src="assets/images/liiketoiminta/Kutsukaveri2.jpg" width="250">
-<img src="assets/images/liiketoiminta/Uutiskirje.jpg" width="250">
+<img src="assets/images/liiketoiminta/Kutsukaveri1.jpg" width="270">
+<img src="assets/images/liiketoiminta/Kutsukaveri2.jpg" width="270">
+<img src="assets/images/liiketoiminta/uutiskirjeeee.jpg" width="300">
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
@@ -183,7 +183,7 @@ käyttäjäpolkua. Toteutus jätettiin pois aikataulusyistä.
 
 <img src="assets/images/eitoteutunut/calling.png" width="300">
 <img src="assets/images/eitoteutunut/callcard.png" width="200">
-<p><strong>Kuva: Voice chat -toiminnallisuuden konseptimockup. Pienempi mallinnus eräänlaisesta kortista joka hoveroituisi sitten dashboardilla, kun voice-chat (puhelu) on käytössä.</strong></p>
+<p><strong>Kuva: Voice chat -toiminnallisuuden konseptimockup. Pienempi on mallinnus eräänlaisesta "kortista", joka hoveroituisi sitten dashboardilla, kun voice-chat (puhelu) on käytössä.</strong></p>
 
 <p>
 Mallinsin myös voice chat -toiminnallisuuden, jota ei toteutettu projektin
