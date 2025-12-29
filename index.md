@@ -84,7 +84,7 @@ yhteisestä button-komponentista.
 
 <br>
 
-<img src="assets/images/valmiitModals/readyModals.png" width="550">
+<img src="assets/images/valmiitModals/readyModals.png" width="700">
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
@@ -94,12 +94,12 @@ Harjoittelin erilaisten virhe- ja tilaviestien näyttämistä käyttöliittymäs
 </p>
 
 <div>
-  <img src="assets/images/validoinnit/defaultCreate.png" width="180">
-  <img src="assets/images/validoinnit/singupp.png" width="350">
+  <img src="assets/images/validoinnit/defaultCreate.png" width="160">
+  <img src="assets/images/validoinnit/singupp.png" width="370">
 </div>
 
-<div style="margin-top: 20px;">
-  <img src="assets/images/validoinnit/statustextexample.png" width="350">
+<div style="margin-top: 10px;">
+  <img src="assets/images/validoinnit/statustextexample.png" width="370">
 </div>
 
 <p><strong>Kuva: Esimerkki validointien status-teksteistä</strong></p>
