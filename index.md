@@ -84,8 +84,7 @@ yhteisestä button-komponentista.
 
 <br>
 
-<img src="assets/images/valmiitModals/modal1.png" width="300">
-<img src="assets/images/valmiitModals/modal2.png" width="300">
+<img src="assets/images/valmiitModals/readyModals.png" width="350">
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
