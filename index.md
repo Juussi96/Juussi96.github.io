@@ -47,7 +47,7 @@ hierarkian ja joustavan rakenteen.
 <img src="assets/images/chatWithDashboard.png" width="500">
 <p><strong>Kuva: Lopullinen chat näkymä</strong></p>
 <p>Chat ruudun toteutti toinen ryhmäläinen, itselle jäi silloin pientä säätöä esim. pitkien nimien kanssa ja tyylittelyt yms.</p>
-<img src="assets/images/chatWithPhone.png" width="200">
+<img src="assets/images/chatWithPhone.png" width="150">
 
 <p><strong>Kuva: Chat ruutu puhelimella</strong></p>
 
@@ -72,7 +72,7 @@ Angular-sovelluksen frontendissä.
 
 <img src="assets/images/chooseusername1.0.png" width="200">
 <img src="assets/images/birthday1.0.png" width="200">
-<img src="assets/images/choosegames1.0.png" width="200">
+<img src="assets/images/choosegames1.0.png" width="180">
 
 <p>
 Napit eivät vielä vastaa lopullista ulkoasua, koska ne tulevat myöhemmin
@@ -89,8 +89,9 @@ Toteutin validointeja signup-, login- ja create-profile-näkymiin.
 Harjoittelin erilaisten virhe- ja tilaviestien näyttämistä käyttöliittymässä.
 </p>
 
-<img src="assets/images/validoinnit/defaultCreate.png" width="200">
+<img src="assets/images/validoinnit/defaultCreate.png" width="180">
 <img src="assets/images/validoinnit/singupp.png" width="350">
+<br>
 <img src="assets/images/validoinnit/statustextexample.png" width="350">
 
 <p><strong>Kuva: Esimerkki validointien status-teksteistä</strong></p>
@@ -100,9 +101,45 @@ Rakensin funktion, joka tarkistaa sähköpostin virhetilat sekä kenttien vastaa
 Submit-painike aktivoituu vain, kun isFormValid on true.
 </p>
 
+<div style="display: flex; flex-direction: column">
 <img src="assets/images/validoinnit/code1.png" width="300">
 <img src="assets/images/validoinnit/code2.png" width="300">
 <img src="assets/images/validoinnit/code3.png" width="300">
+</div>
+
+<hr style="border: 1px solid black; margin: 40px 0;">
+
+<h2>Liiketoiminta ja markkinointi</h2>
+
+<p>
+Projektin aikana opin soveltamaan liiketoiminnan ja markkinoinnin perusteita käytännössä.
+Aloitin laatimalla Business Model Canvasin (BMC) ja Value Proposition Canvasin (VPC),
+määrittäen avainresurssit, avainaktiviteetit, jakelukanavat ja asiakassuhteet juuri
+palvelumme näkökulmasta.
+</p>
+
+<p>
+Tärkein oppi oli ymmärtää kohderyhmien merkitys: Overall markets (kaikki pelaajat),
+Potential markets (kilpailulliset PC-pelaajat) ja Target markets (pelaajat, jotka
+hakivat peliseuraa taitotason, oppimisen tai yhteisön kautta). Konkreettiset
+segmentit (nuoret kilpailulliset pelaajat, aloittelijat, tavoitteelliset ja sosiaalisuutta
+hakevat) auttoivat hahmottamaan, miten palvelu voisi palvella erilaisia käyttäjiä.
+</p>
+
+<p>
+Samalla harjoittelin markkinoinnin 4P-mallin soveltamista ja segmentointia käytännössä.
+Suunnittelin Figmassa ”kutsu kaveri” -sähköpostin simuloidun viraalikampanjan ja uutiskirjemallin,
+joilla harjoittelin viestinnän ja brändin rakentamista. Vaikka materiaaleja ei vielä julkaistu,
+harjoitus auttoi ymmärtämään, miten käyttäjäkokemusta voidaan tukea markkinoinnin keinoin.
+</p>
+
+<p>
+Lisäksi pohdin palvelun turvallisuutta ja käyttäytymisen mittaamista sovelluksessa (esim.
+toksisuusmittari), sekä tietosuojaa. Opin, että käyttäjien raportoinnit ja moderointi
+tulee toteuttaa läpinäkyvästi ja neutraalisti, jotta yksilöitä ei lokeroida, vaan mittari
+keskittyy käytökseen. Tämän kautta ymmärsin, miten liiketoiminta, markkinointi ja
+käyttäjäkokemus yhdistyvät kokonaisvaltaisesti palvelun suunnittelussa.
+</p>
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
