@@ -12,21 +12,30 @@ Oivalsin, että hyvin rakennetut auto layout -rakenteet tekevät komponenttien m
 Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osiot, jotta ne pysyvät järjestyksessä ja skaalautuvat oikein. ChatScreen puolestaan jaettiin kahteen kokonaisuuteen: käyttäjien listaan ja ryhmächat-listaan. Molempien sisällä on omat otsikot sekä toistuvat elemen-tit, kuten käyttäjäkortit.
 </p>
 
-<img src="assets/images/dashboardFrame.png" width="300">
-<img src="assets/images/dashboardFrameStructure.png" width="100">
+<div style="height: 20px;"></div>
+
+<img src="assets/images/dashboardframe.png" width="300">
 <p><strong>Kuva: Tässä dashboardframe, jossa käytin autolayouttia. Näin sain aseteltua palasia oikealle paikoilleen.</strong></p>
 
-<hr>
+<hr style="border: 1px solid black;">
+
+<div style="height: 30px;"></div>
 
 <h2>Chat ruudun suunnittelu</h2>
 
 <img src="assets/images/wireframeChat.png" width="400">
 <p><strong>Kuva: Wireframe mallinnus</strong></p>
+
+<div style="height: 20px;"></div>
+
 <p>Lähdin toteuttamaan figmassa chat ruutua. Hain tähän ideaa dribbble.com sivuston kautta. Halusin sen olla mahdollisimman yksin kertainen ja selkeästi rakennettu.
 </p>
 
 <img src="assets/images/chatscreen.png" width="400">
 <p><strong>Kuva: Chat mallinnus 2.0 (Figma)</strong></p>
+
+<div style="height: 20px;"></div>
+
 <p>Tässä olin tuonut mallinnukseen ilmettä palvelumme teemaan sopivilla väreillä, jotta saadaan siihen ilmettä</p>
 
 <img src="assets/images/MessageFrame.png" width="500">
@@ -46,21 +55,28 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 
 <p><strong>Ylempänä kuvat figma suunnitelmista, joita lähdin kääntämään sitten HTML + CSS.</strong></p>
 
+<div style="height: 20px;"></div>
+
 <img src="assets/images/chooseusername1.0.png" width="200">
 <img src="assets/images/birthday1.0.png" width="200">
 <img src="assets/images/choosegames1.0.png" width="200">
 
 <p><strong>Kuvat ”valmiista” koodista. Napit ei vielä olen oikean mallisia, kun ne tulevat sitten "yhteisestä” button-komponentista.</strong></p>
 
+<div style="height: 20px;"></div>
+
 <img src="assets/images/username_component_html.png" width="450">
 
-<p><strong>Kuva lopullisesta html koodista</strong></p>
+<p><strong>Kuva lopullisesta html koodista. Tässä on kyseessä "Choose your username" modali-ikkuna.</strong></p>
 
-<img src="assets/images/profilecreation1.png" width="300">
-<img src="assets/images/profilecreation2.png" width="300">
-<img src="assets/images/profilecreation3.png" width="300">
+<div style="height: 20px;"></div>
+
+<img src="assets/images/profilecreat1.png" width="350">
+<img src="assets/images/profilecreat2.png" width="350">
 
 <p><strong>Kuvat: Lopullisesta näkymästä</strong></p>
+
+<div style="height: 20px;"></div>
 
 <p>Modali-ikkunoiden jälkeen lähdin rakentamaan "Create profile" pääsivustoa. Lähdin toteuttamaan tätä toisen ryhmäläiseni aiemmin luomansa "Login" sivuston mukaan.</p>
 
@@ -68,28 +84,38 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 
 <p><strong>Kuva: Login näkymä</strong></p>
 
+<div style="height: 20px;"></div>
+
 <img src="assets/images/profilecreationMain.png" width="350">
 <p><strong>Kuva: Create profile pääsivusta</strong></p>
+
+<div style="height: 20px;"></div>
+
 <img src="assets/images/profilecreationMain2.png" width="350">
 
-<p>Pienemmällä näyttökoolla vaihtuu järjestys!
-Alla css säädöt!</p>
+<p>Pienemmällä näyttökoolla vaihtuu järjestys,
+alla kuva jossa css säädöt!</p>
 
 <img src="assets/images/cssprofilecreation1.png" width="350">
 <img src="assets/images/cssprofilecreation2.png" width="350">
 
-<hr>
+<hr style="border: 1px solid black;">
+
+<div style="height: 30px;"></div>
 
 <h2>Validointeja: sing up sivustolle ja profiilin luonnissa</h2>
 
 <p>Tein signup-, login-email-sivustoille ja create-profile modaaleihin validointeja. Harjoittelin erilaisia validointimalleja ( https://dribbble.com/shots/20340740-Sign-up-Forms-Users-need-to-know-password-requirements ) ja niiden näyttämistä käyttöliittymässä (esim. virheilmoitukset ja varoitukset). </p>
 
+<img src="assets/images/validoinnit/defaultCreate.png" width="300">
 <img src="assets/images/validoinnit/singupp.png" width="350">
-<img src="assets/images/validoinnit/exampleStatustext.png" width="350">
+<img src="assets/images/validoinnit/statustextexample.png" width="350">
 <p><strong>Kuva: Esimerkki yhdestä status tekstistä</strong></p>
 
-<p>Rakensin lisäksi funktion, joka tarkistaa sähköpostin virhetilat (esim. sisältääkö ison kirjaimen, numeron ja vähintään kuusi merkkiä) sekä sen, että sähköpostikentät vastaavat toisiaan, jolloin Submit-painike aktivoituu vain validissa tilassa. (eli formValid on true tilassa, jolloin voidaan jatkaa)</p>
+<div style="height: 20px;"></div>
 
-<img src="assets/images/validoinnit/code1.png" width="250">
-<img src="assets/images/validoinnit/code2.png" width="250">
-<img src="assets/images/validoinnit/code3.png" width="250">
+<p>Rakensin lisäksi funktion, joka tarkistaa sähköpostin virhetilat (esim. sisältääkö ison kirjaimen, numeron ja vähintään kuusi merkkiä) sekä sen, että sähköpostikentät vastaavat toisiaan, jolloin Submit-painike aktivoituu vain validissa tilassa. (eli isFormValid on true tilassa, jolloin voidaan jatkaa)</p>
+
+<img src="assets/images/validoinnit/code1.png" width="350">
+<img src="assets/images/validoinnit/code2.png" width="350">
+<img src="assets/images/validoinnit/code3.png" width="350">
