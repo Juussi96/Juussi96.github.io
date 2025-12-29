@@ -114,7 +114,7 @@ Submit-painike aktivoituu vain, kun isFormValid on true.
 <p>
 Projektin aikana opin soveltamaan liiketoiminnan ja markkinoinnin perusteita käytännössä.
 Aloitin laatimalla Business Model Canvasin (BMC) ja Value Proposition Canvasin (VPC),
-määrittäen avainresurssit, avainaktiviteetit, jakelukanavat ja asiakassuhteet juuri
+määrittäen avainresurssit, avainaktiviteetit, jakelukanavat ja asiakassuhteet meidän
 palvelumme näkökulmasta.
 </p>
 
@@ -127,7 +127,6 @@ hakevat) auttoivat hahmottamaan, miten palvelu voisi palvella erilaisia käyttä
 </p>
 
 <p>
-Samalla harjoittelin markkinoinnin 4P-mallin soveltamista ja segmentointia käytännössä.
 Suunnittelin Figmassa ”kutsu kaveri” -sähköpostin simuloidun viraalikampanjan ja uutiskirjemallin,
 joilla harjoittelin viestinnän ja brändin rakentamista. Vaikka materiaaleja ei vielä julkaistu,
 harjoitus auttoi ymmärtämään, miten käyttäjäkokemusta voidaan tukea markkinoinnin keinoin.
@@ -137,9 +136,12 @@ harjoitus auttoi ymmärtämään, miten käyttäjäkokemusta voidaan tukea markk
 Lisäksi pohdin palvelun turvallisuutta ja käyttäytymisen mittaamista sovelluksessa (esim.
 toksisuusmittari), sekä tietosuojaa. Opin, että käyttäjien raportoinnit ja moderointi
 tulee toteuttaa läpinäkyvästi ja neutraalisti, jotta yksilöitä ei lokeroida, vaan mittari
-keskittyy käytökseen. Tämän kautta ymmärsin, miten liiketoiminta, markkinointi ja
-käyttäjäkokemus yhdistyvät kokonaisvaltaisesti palvelun suunnittelussa.
+keskittyy käytökseen. 
 </p>
+
+<img src="assets/images/liiketoiminta/Kutsukaveri1.jpg" width="250">
+<img src="assets/images/liiketoiminta/Kutsukaveri2.jpg" width="250">
+<img src="assets/images/liiketoiminta/Uutiskirje.jpg" width="250">
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
