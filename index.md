@@ -7,8 +7,8 @@ Samalla sain paremman käsityksen siitä, miten käyttöliittymä kannattaa pilk
 loogisiin osiin, jotka on mahdollista toteuttaa myös koodipuolella komponentteina.
 </p>
 
-<img src="assets/images/autolayout1.png" width="600">
-<img src="assets/images/autolayout1structure.png" width="200">
+<img src="assets/images/autolayout1.png" width="500">
+<img src="assets/images/autolayout1structure.png" width="100">
 
 <p><strong>Kuva: Esimerkki Auto Layout -rakenteesta Figma-työkalussa.</strong></p>
 
@@ -18,7 +18,7 @@ Header sisältää hakukentän ja nappien ryhmät, kun taas ChatScreen on jaettu
 käyttäjälistaan ja ryhmächat-listaan. Näin rakenteet pysyvät selkeinä ja skaalautuvina.
 </p>
 
-<img src="assets/images/dashboardframe.png" width="350">
+<img src="assets/images/DashFrame.png" width="350">
 
 <p><strong>Kuva: Dashboard-näkymä, jossa Auto Layout helpottaa elementtien asemointia.</strong></p>
 
@@ -43,6 +43,23 @@ Chatscreen on jaettu headeriin ja viestialueeseen. Viestikuplat on rakennettu
 Auto Layoutilla erillisistä osista (ikoni, teksti, aikaleima), mikä luo selkeän
 hierarkian ja joustavan rakenteen.
 </p>
+
+<img src="assets/images/chatWithDashboard.png" width="500">
+<p><strong>Kuva: Lopullinen chat näkymä</strong></p>
+<p>Chat ruudun toteutti toinen ryhmäläinen, itselle jäi silloin pientä säätöä esim. pitkien nimien kanssa ja tyylittelyt yms.</p>
+<img src="assets/images/chatWithPhone.png" width="500">
+
+<p><strong>Kuva: Chat ruutu puhelimella</strong></p>
+
+<img src="assets/images/chatName.png" width="300">
+<p><strong>Tässä kuva pitkän nimen muokkaamisesta</strong></p>
+
+<img src="assets/images/nimenlyhennys.png" width="250">
+
+<p>Kuva koodista, jossa käytin ellipsis:tä</p>
+
+<img src="assets/images/exampleNames.png" width="300">
+<p>Esimerkkejä</p>
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
@@ -130,11 +147,11 @@ käyttäjäpolkua. Toteutus jätettiin pois aikataulusyistä.
 
 <img src="assets/images/eitoteutunut/calling.png" width="300">
 <img src="assets/images/eitoteutunut/callcard.png" width="200">
-<p><strong>Kuva: Voice chat -toiminnallisuuden konseptimockup. Pienempi mallinnus eräänlaisesta kortista joka hoveroituisi sitten dashboardilla, kun puhelun on käytössä.</strong></p>
+<p><strong>Kuva: Voice chat -toiminnallisuuden konseptimockup. Pienempi mallinnus eräänlaisesta kortista joka hoveroituisi sitten dashboardilla, kun voice-chat (puhelu) on käytössä.</strong></p>
 
 <p>
 Mallinsin myös voice chat -toiminnallisuuden, jota ei toteutettu projektin
-aikana. Keskustelimme tiimin kanssa sen mahdollisesta roolista palvelun
+aikana. Keskustelimme ryhmän kanssa sen mahdollisesta roolista palvelun
 jatkokehityksessä. Tämä kehitti kykyäni hahmottaa tuotteen tulevaisuuden
 laajennusmahdollisuuksia ja miettiä ominaisuuksia tuotantoversiota ajatellen.
 </p>
