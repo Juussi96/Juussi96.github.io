@@ -93,10 +93,14 @@ Toteutin validointeja signup-, login- ja create-profile-näkymiin.
 Harjoittelin erilaisten virhe- ja tilaviestien näyttämistä käyttöliittymässä.
 </p>
 
-<img src="assets/images/validoinnit/defaultCreate.png" width="180">
-<img src="assets/images/validoinnit/singupp.png" width="350">
-<br>
-<img src="assets/images/validoinnit/statustextexample.png" width="350">
+<div>
+  <img src="assets/images/validoinnit/defaultCreate.png" width="180">
+  <img src="assets/images/validoinnit/singupp.png" width="350">
+</div>
+
+<div style="margin-top: 20px;">
+  <img src="assets/images/validoinnit/statustextexample.png" width="350">
+</div>
 
 <p><strong>Kuva: Esimerkki validointien status-teksteistä</strong></p>
 
