@@ -14,7 +14,7 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 
 <div style="height: 20px;"></div>
 
-<img src="assets/images/dashboardframe.png" width="300">
+<img src="assets/images/dashboardframe.png" width="350">
 <p><strong>Kuva: Tässä dashboardframe, jossa käytin autolayouttia. Näin sain aseteltua palasia oikealle paikoilleen.</strong></p>
 
 <hr style="border: 1px solid black;">
@@ -32,11 +32,9 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 </p>
 
 <img src="assets/images/chatscreen.png" width="400">
-<p><strong>Kuva: Chat mallinnus 2.0 (Figma)</strong></p>
+<p><strong>Kuva: Chat mallinnus 2.0 (Figma). Tässä olin tuonut mallinnukseen ilmettä palvelumme teemaan sopivilla väreillä, jotta saadaan siihen ilmettä</strong></p>
 
 <div style="height: 20px;"></div>
-
-<p>Tässä olin tuonut mallinnukseen ilmettä palvelumme teemaan sopivilla väreillä, jotta saadaan siihen ilmettä</p>
 
 <img src="assets/images/MessageFrame.png" width="500">
 
@@ -55,6 +53,8 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 
 <p><strong>Ylempänä kuvat figma suunnitelmista, joita lähdin kääntämään sitten HTML + CSS.</strong></p>
 
+<hr>
+
 <div style="height: 20px;"></div>
 
 <img src="assets/images/chooseusername1.0.png" width="200">
@@ -63,11 +63,15 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 
 <p><strong>Kuvat ”valmiista” koodista. Napit ei vielä olen oikean mallisia, kun ne tulevat sitten "yhteisestä” button-komponentista.</strong></p>
 
+<hr>
+
 <div style="height: 20px;"></div>
 
 <img src="assets/images/username_component_html.png" width="450">
 
 <p><strong>Kuva lopullisesta html koodista. Tässä on kyseessä "Choose your username" modali-ikkuna.</strong></p>
+
+<hr>
 
 <div style="height: 20px;"></div>
 
@@ -75,6 +79,8 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 <img src="assets/images/profilecreat2.png" width="350">
 
 <p><strong>Kuvat: Lopullisesta näkymästä</strong></p>
+
+<hr>
 
 <div style="height: 20px;"></div>
 
@@ -84,11 +90,13 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 
 <p><strong>Kuva: Login näkymä</strong></p>
 
+<hr>
 <div style="height: 20px;"></div>
 
 <img src="assets/images/profilecreationMain.png" width="350">
 <p><strong>Kuva: Create profile pääsivusta</strong></p>
 
+<hr>
 <div style="height: 20px;"></div>
 
 <img src="assets/images/profilecreationMain2.png" width="350">
@@ -107,7 +115,7 @@ alla kuva jossa css säädöt!</p>
 
 <p>Tein signup-, login-email-sivustoille ja create-profile modaaleihin validointeja. Harjoittelin erilaisia validointimalleja ( https://dribbble.com/shots/20340740-Sign-up-Forms-Users-need-to-know-password-requirements ) ja niiden näyttämistä käyttöliittymässä (esim. virheilmoitukset ja varoitukset). </p>
 
-<img src="assets/images/validoinnit/defaultCreate.png" width="300">
+<img src="assets/images/validoinnit/defaultCreate.png" width="200">
 <img src="assets/images/validoinnit/singupp.png" width="350">
 <img src="assets/images/validoinnit/statustextexample.png" width="350">
 <p><strong>Kuva: Esimerkki yhdestä status tekstistä</strong></p>
@@ -116,6 +124,6 @@ alla kuva jossa css säädöt!</p>
 
 <p>Rakensin lisäksi funktion, joka tarkistaa sähköpostin virhetilat (esim. sisältääkö ison kirjaimen, numeron ja vähintään kuusi merkkiä) sekä sen, että sähköpostikentät vastaavat toisiaan, jolloin Submit-painike aktivoituu vain validissa tilassa. (eli isFormValid on true tilassa, jolloin voidaan jatkaa)</p>
 
-<img src="assets/images/validoinnit/code1.png" width="350">
-<img src="assets/images/validoinnit/code2.png" width="350">
-<img src="assets/images/validoinnit/code3.png" width="350">
+<img src="assets/images/validoinnit/code1.png" width="300">
+<img src="assets/images/validoinnit/code2.png" width="300">
+<img src="assets/images/validoinnit/code3.png" width="300">
