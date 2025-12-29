@@ -35,12 +35,14 @@ Headerin sisälle rakensin omat ryhmät, esimerkiksi hakukentän ja nappien osio
 
 <p>Kokonaisuus on jaettu headeriin ja chatscreeniin. Chatscreen sisältää viestikuplat (incoming ja outgoing), joissa jokainen kupla on rakennettu erillisistä osista, kuten käyttäjä-ikonista, tekstistä ja aikaleimasta. Näin Auto layout pitää rakenteen selkeänä ja joustavana</p>
 
-<hr>
+<hr style="border: 1px solid black;">
+
+<div style="height: 30px;"></div>
 
 <h2>Mallinnuksien kääntäminen angularin puolelle (frontend)</h2>
 
 <img src="assets/images/figmaCreateprofile1.png" width="400">
-<img src="assets/images/figmaCreateprofile2.png" width="350">
+<img src="assets/images/figmaCreateprofile2.png" width="300">
 
 <p><strong>Ylempänä kuvat figma suunnitelmista, joita lähdin kääntämään sitten HTML + CSS.</strong></p>
 
