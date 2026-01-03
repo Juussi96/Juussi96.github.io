@@ -1,3 +1,14 @@
+<div style="background-color: #6e6e6eff">
+  <h2>Projektin tausta</h2>
+  <p>
+    Projektin tavoitteena oli suunnitella ja toteuttaa selainpohjainen palvelu
+    (Synerra), joka helpottaa kilpailullisten videopelien pelaajia löytämään
+    sopivaa peliseuraa. Palvelun ydinidea on tarjota käyttäjille mahdollisuus
+    etsiä pelikavereita erilaisten filttereiden perusteella sekä mahdollistaa
+    syvempi tutustuminen reaaliaikaisen chatin avulla.
+  </p>
+</div>
+
 <h2>Oppimiani asioita TC:n aikana</h2>
 
 <p>
