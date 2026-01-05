@@ -78,7 +78,7 @@ Figma-mallinnusten kääntö HTML + CSS
 <img src="assets/images/figmaCreateprofile1.png" width="400">
 <img src="assets/images/figmaCreateprofile2.png" width="300">
 
-<p><strong>Kuva: Figma-suunnitelmat ennen koodivaihetta</strong></p>
+<p style="margin: 40px 0;"><strong>Kuva: Figma-suunnitelmat ennen koodivaihetta</strong></p>
 
 <img src="assets/images/chooseusername1.0.png" width="200">
 <img src="assets/images/birthday1.0.png" width="200">
@@ -120,7 +120,7 @@ Submit-painike aktivoituu vain, kun isFormValid on true.
 </p>
 
 <div style="display: flex; flex-direction: column">
-<img src="assets/images/validoinnit/code1.png" width="450">
+<img src="assets/images/validoinnit/code1.png" width="350">
 <img src="assets/images/validoinnit/code2.png" width="450">
 <img src="assets/images/validoinnit/code3.png" width="450">
 </div>
