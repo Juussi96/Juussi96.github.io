@@ -171,3 +171,21 @@ Suunnittelin 404 error -sivun osana käyttökokemusta, vaikka sitä ei toteutett
 <p>
 Mallinsin voice chat -toiminnallisuuden Figmaan. Vaikka sitä toimintoa ei toteutettu, sen mallintaminen auttoi miettimään, miten palvelua voisi laajentaa tulevaisuudessa.
 </p>
+
+<hr style="border: 1px solid black;">
+
+<h4>
+Mitä osasin alussa 
+</h4>
+
+<p>
+Opintojakson alussa minulla oli perustaso UI/UX-suunnittelussa, graafisen sisällön tuotanto oli hieman alle perustason ja liiketoiminnan asiat olivat hallinnassa vain alkeet.
+</p>
+
+<h4>
+Mitä osaan nyt
+</h4>
+
+<p>
+Opintojakson jälkeen osaan rakentaa skaalautuvia käyttöliittymiä Auto Layoutin avulla, suunnitella komponenttipohjaisia näkymiä Figmaan ja siirtää niitä frontend-toteutukseen Angularissa. Lisäksi olen oppinut tiimityöskentelyä, projektin hallintaa sekä liiketoiminnan perusteiden soveltamista käytännössä.
+</p>
