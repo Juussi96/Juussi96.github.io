@@ -139,19 +139,19 @@ Lisäksi pohdin palvelun turvallisuutta ja käyttäytymisen mittaamista sovelluk
 <h2>Reflektio, ja oppimisen yhteenveto</h2>
 
 <p>
-Projektin aikana suurin oppini oli siirtyminen visuaalisesta suunnittelusta rakenteelliseen ja komponenttipohjaiseen ajatteluun. Alussa lähestyin Figmaa lähinnä ulkoasun näkökulmasta, mutta opintojakson edetessä ymmärsin esim. Auto Layoutin merkityksen käyttöliittymän skaalautuvuuden ja jatkokehityksen kannalta.
+Opintojakson alussa minulla oli perustaso UI/UX-suunnittelussa, graafisen sisällön tuotanto oli hieman alle perustason ja liiketoiminnan asiat hallinnassa vain alkeet. Projektin aikana suurin oppini oli siirtyminen pelkästä visuaalisesta suunnittelusta rakenteelliseen ja komponenttipohjaiseen ajatteluun.
 </p>
 
 <p>
-Projektin aikana huomasin entistä selkeämmin, että käyttöliittymän jakaminen komponentteihin ei ainoastaan helpota visuaalista suunnittelua, vaan tukee myös frontend-toteutuksen muokattavuutta ja koko sovelluksen laatua.
+Opintojakson edetessä opin hyödyntämään Auto Layoutia Figma-työkalussa, suunnittelemaan skaalautuvia ja komponenttipohjaisia käyttöliittymiä sekä siirtämään suunnitelmia sujuvasti frontend-toteutukseen Angularissa. Samalla kehitin tiimityö-, projektinhallinta- ja liiketoimintaosaamistani käytännössä.
+</p>
+
+<p>
+Projektin aikana huomasin, että käyttöliittymän jakaminen loogisiin komponentteihin ei ainoastaan helpota visuaalista suunnittelua, vaan tukee myös frontend-toteutuksen muokattavuutta ja sovelluksen laatua. Kaikkia suunniteltuja ominaisuuksia ei toteutettu, mutta niiden mallintaminen opetti "priorisoimaan" päätoimintoja ja hahmottamaan mahdollisia lisäpalveluita tulevaa kehitystä tai esim. rahoittajille esitettäväksi.
 </p>
 
 <p>
 Seuraavana kehitysaskeleena haluaisin panostaa markkinointimateriaaleihin ja niiden visuaaliseen laatuun osana omaa ammatillista kehittymistäni.
-</p>
-
-<p>
-Kaikkia suunniteltuja ominaisuuksia ei toteutettu sovelluksessa, mutta niiden mallintaminen oli tärkeä osa oppimisprosessia, sillä se opetti priorisoimaan päätoimintoja sekä jäsentämään mahdollisia lisäpalveluita tulevaa kehitystä tai rahoittajille esittämistä varten.
 </p>
 
 <hr style="border: 1px solid black;">
@@ -170,22 +170,4 @@ Suunnittelin 404 error -sivun osana käyttökokemusta, vaikka sitä ei toteutett
 
 <p>
 Mallinsin voice chat -toiminnallisuuden Figmaan. Vaikka sitä toimintoa ei toteutettu, sen mallintaminen auttoi miettimään, miten palvelua voisi laajentaa tulevaisuudessa.
-</p>
-
-<hr style="border: 1px solid black;">
-
-<h4>
-Mitä osasin alussa 
-</h4>
-
-<p>
-Opintojakson alussa minulla oli perustaso UI/UX-suunnittelussa, graafisen sisällön tuotanto oli hieman alle perustason ja liiketoiminnan asiat olivat hallinnassa vain alkeet.
-</p>
-
-<h4>
-Mitä osaan nyt
-</h4>
-
-<p>
-Opintojakson jälkeen osaan rakentaa skaalautuvia käyttöliittymiä Auto Layoutin avulla, suunnitella komponenttipohjaisia näkymiä Figmaan ja siirtää niitä frontend-toteutukseen Angularissa. Lisäksi olen oppinut tiimityöskentelyä, projektin hallintaa sekä liiketoiminnan perusteiden soveltamista käytännössä.
 </p>
