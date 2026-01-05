@@ -1,4 +1,4 @@
-<div style="background-color: #6e6e6eff">
+<div>
   <h2>Projektin tausta</h2>
   <p>
     Projektin tavoitteena oli suunnitella ja toteuttaa selainpohjainen palvelu
@@ -12,13 +12,13 @@
 <h2>Oppimiani asioita TC:n aikana</h2>
 
 <p>
-Oivalsin, että hyvin rakennetut Auto Layout -rakenteet tekevät komponenttien
+Ymmärsin, että hyvin rakennetut Auto Layout -rakenteet tekevät komponenttien
 muokkaamisesta huomattavasti joustavampaa ja säästävät aikaa myöhemmässä vaiheessa.
 Samalla sain paremman käsityksen siitä, miten käyttöliittymä kannattaa pilkkoa
 loogisiin osiin, jotka on mahdollista toteuttaa myös koodipuolella komponentteina.
 </p>
 
-<img src="assets/images/autolayout1.png" width="500">
+<img src="assets/images/autolayout1.png" width="530">
 <img src="assets/images/autolayout1structure.png" width="100">
 
 <p><strong>Kuva: Esimerkki Auto Layout -rakenteesta Figma-työkalussa.</strong></p>
@@ -29,7 +29,7 @@ Header sisältää hakukentän ja nappien ryhmät, kun taas ChatScreen on jaettu
 käyttäjälistaan ja ryhmächat-listaan. Näin rakenteet pysyvät selkeinä ja skaalautuvina.
 </p>
 
-<img src="assets/images/DashFrame.png" width="350">
+<img src="assets/images/DashFrame.png" width="480">
 
 <p><strong>Kuva: Dashboard-näkymä, jossa Auto Layout helpottaa elementtien asemointia.</strong></p>
 
@@ -71,10 +71,9 @@ hierarkian ja joustavan rakenteen.
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
-<p>
-Seuraavassa vaiheessa lähdin kääntämään Figma-mallinnuksia HTML + CSS -toteutuksiksi
-Angular-sovelluksen frontendissä.
-</p>
+<h4>
+Figma-mallinnusten kääntö HTML + CSS
+</h4>
 
 <img src="assets/images/figmaCreateprofile1.png" width="400">
 <img src="assets/images/figmaCreateprofile2.png" width="300">
@@ -86,7 +85,7 @@ Angular-sovelluksen frontendissä.
 <img src="assets/images/choosegames1.0.png" width="180">
 
 <p>
-Napit eivät vielä vastaa lopullista ulkoasua, koska ne tulevat myöhemmin
+Napit (buttonit) eivät vielä vastaa lopullista ulkoasua, koska ne tulivat myöhemmin
 yhteisestä button-komponentista.
 </p>
 
@@ -99,10 +98,10 @@ yhteisestä button-komponentista.
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
-<p>
+<h4>
 Toteutin validointeja signup-, login- ja create-profile-näkymiin.
 Harjoittelin erilaisten virhe- ja tilaviestien näyttämistä käyttöliittymässä.
-</p>
+</h4>
 
 <div>
   <img src="assets/images/validoinnit/defaultCreate.png" width="160">
@@ -121,9 +120,9 @@ Submit-painike aktivoituu vain, kun isFormValid on true.
 </p>
 
 <div style="display: flex; flex-direction: column">
-<img src="assets/images/validoinnit/code1.png" width="300">
-<img src="assets/images/validoinnit/code2.png" width="300">
-<img src="assets/images/validoinnit/code3.png" width="300">
+<img src="assets/images/validoinnit/code1.png" width="450">
+<img src="assets/images/validoinnit/code2.png" width="450">
+<img src="assets/images/validoinnit/code3.png" width="450">
 </div>
 
 <hr style="border: 1px solid black; margin: 40px 0;">
