@@ -1,4 +1,5 @@
 # TC S2025 Portfolio
+https://juussi96.github.io/
 
 ## UI/UX & Liiketoiminta – Synerra | Projketin taustat ja tavoitteet
 Projektin tavoitteena oli suunnitella ja toteuttaa selainpohjainen palvelu, joka helpottaa kilpai-lullisten videopelien pelaajia löytämään sopivaa peliseuraa. Palvelun ydinidea on tarjota käyttä-jille mahdollisuus etsiä pelikavereita erilaisten filttereiden perusteella sekä mahdollistaa ”syvempi” tutustuminen reaaliaikaisen chatin avulla.
