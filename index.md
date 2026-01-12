@@ -115,7 +115,7 @@ Rakensin pienen toiminnallisuuden, joka tarkistaa sähköpostin virhetilat sekä
 <img src="assets/images/validoinnit/code3.png" width="450">
 </div>
 
-<img src="assets/images/validoinnit/lopullinen.png" width="500">
+<img src="assets/images/validoinnit/lopullinen.png" width="400">
 <p><strong>Kuva: Lopullinen näkymä, sing-up sivulla</strong></p>
 
 <hr style="border: 1px solid black; margin: 40px 0;">
