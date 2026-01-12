@@ -22,6 +22,8 @@ Ymmärsin, että hyvin rakennetut Auto Layout -rakenteet tekevät komponenttien 
 Rakensin komponentin jakamalla sen kahteen pääosaan: Header ja ChatScreen. Header sisältää hakukentän ja nappien ryhmät, kun taas ChatScreen on jaettu käyttäjälistaan ja ryhmächat-listaan. Näin rakenteet pysyvät selkeinä ja skaalautuvina.
 </p>
 
+<br>
+
 <img src="assets/images/DashFrame.png" width="480">
 
 <p><strong>Kuva: Dashboard-näkymä, jossa Auto Layout helpottaa elementtien asemointia.</strong></p>
