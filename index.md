@@ -106,7 +106,7 @@ Toteutin validointeja signup-, login- ja create-profile-näkymiin. Harjoittelin 
 <p><strong>Kuva: Esimerkki validointien status-teksteistä</strong></p>
 
 <p>
-Rakensin pienen toiminnallisuuden, joka tarkistaa sähköpostin virhetilat sekä kenttien vastaavuuden. Submit-painike aktivoituu vain, kun isFormValid on true.
+Tässä toiminnallisuus, joka tarkistaa sähköpostin virhetilat sekä kenttien vastaavuuden. Submit-painike aktivoituu vain, kun isFormValid on true.
 </p>
 
 <div style="display: flex; flex-direction: column">
