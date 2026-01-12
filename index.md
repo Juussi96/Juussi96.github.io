@@ -11,8 +11,6 @@
 Ymmärsin, että hyvin rakennetut Auto Layout -rakenteet tekevät komponenttien muokkaamisesta huomattavasti joustavampaa ja säästävät aikaa myöhemmässä vaiheessa. Samalla sain paremman käsityksen siitä, miten käyttöliittymä kannattaa pilkkoa loogisiin osiin.
 </p>
 
-<br>
-
 <img src="assets/images/autolayout1.png" width="530">
 <img src="assets/images/autolayout1structure.png" width="100">
 
@@ -40,6 +38,8 @@ Lähdin suunnittelemaan chat-näkymää Figma-työkalussa. Hain inspiraatiota Dr
 <img src="assets/images/chatscreen.png" width="400">
 <p><strong>Kuva: Chat-näkymän jatkokehitetty versio teemaväreillä</strong></p>
 
+<br>
+
 <img src="assets/images/MessageFrame.png" width="500">
 
 <p>
@@ -51,7 +51,7 @@ Chatscreen on jaettu headeriin ja viestialueeseen. Viestikuplat on rakennettu Au
 <p>Chat ruudun toteutti toinen ryhmäläinen, itselle jäi silloin pientä säätöä esim. pitkien nimien kanssa ja tyylittelyt yms.</p>
 <img src="assets/images/chatWithPhone.png" width="180">
 
-<!-- <p><strong>Kuva: Chat ruutu puhelimella</strong></p> -->
+<p>Kuva: Chat ruutu puhelimella</p>
 
 <img src="assets/images/chatName.png" width="380">
 <p><strong>Tässä kuva pitkän nimen muokkaamisesta</strong></p>
@@ -82,7 +82,7 @@ Napit (buttonit) eivät vielä vastaa lopullista ulkoasua, koska ne tulivat myö
 </p>
 
 <img src="assets/images/username_component_html.png" width="450">
-<p><strong>Kuva: HTML-toteutus “Choose your username” -modaalista</strong></p>
+<p><strong>Kuva: HTML-toteutus “Choose your username” -modaalista (#1)</strong></p>
 
 <br>
 
@@ -114,6 +114,9 @@ Rakensin pienen toiminnallisuuden, joka tarkistaa sähköpostin virhetilat sekä
 <img src="assets/images/validoinnit/code2.png" width="450">
 <img src="assets/images/validoinnit/code3.png" width="450">
 </div>
+
+<img src="assets/images/validoinnit/lopullinen.png" width="500">
+<p><strong>Kuva: Lopullinen näkymä, sing-up sivulla</strong></p>
 
 <hr style="border: 1px solid black; margin: 40px 0;">
 
