@@ -8,8 +8,10 @@
 <h2>Oppimiani asioita TC:n aikana</h2>
 
 <p>
-Ymmärsin, että hyvin rakennetut Auto Layout -rakenteet tekevät komponenttien muokkaamisesta huomattavasti joustavampaa ja säästävät aikaa myöhemmässä vaiheessa. Samalla sain paremman käsityksen siitä, miten käyttöliittymä kannattaa pilkkoa loogisiin osiin, jotka on mahdollista toteuttaa myös koodipuolella komponentteina.
+Ymmärsin, että hyvin rakennetut Auto Layout -rakenteet tekevät komponenttien muokkaamisesta huomattavasti joustavampaa ja säästävät aikaa myöhemmässä vaiheessa. Samalla sain paremman käsityksen siitä, miten käyttöliittymä kannattaa pilkkoa loogisiin osiin.
 </p>
+
+<br>
 
 <img src="assets/images/autolayout1.png" width="530">
 <img src="assets/images/autolayout1structure.png" width="100">
@@ -102,7 +104,7 @@ Toteutin validointeja signup-, login- ja create-profile-näkymiin. Harjoittelin 
 <p><strong>Kuva: Esimerkki validointien status-teksteistä</strong></p>
 
 <p>
-Rakensin pienen toiminnallisuuden (funktion), joka tarkistaa sähköpostin virhetilat sekä kenttien vastaavuuden. Submit-painike aktivoituu vain, kun isFormValid on true.
+Rakensin pienen toiminnallisuuden, joka tarkistaa sähköpostin virhetilat sekä kenttien vastaavuuden. Submit-painike aktivoituu vain, kun isFormValid on true.
 </p>
 
 <div style="display: flex; flex-direction: column">
@@ -116,12 +118,11 @@ Rakensin pienen toiminnallisuuden (funktion), joka tarkistaa sähköpostin virhe
 <h2>Liiketoiminta ja markkinointi</h2>
 
 <p>
-Projektin aikana opin soveltamaan liiketoiminnan ja markkinoinnin perusteita käytännössä. Aloitin laatimalla Business Model Canvasin (BMC) ja Value Proposition Canvasin (VPC), määrittäen avainresurssit, avaintoiminnot, jakelukanavat ja asiakassuhteet meidän palvelumme näkökulmasta.
+Projektin aikana opin soveltamaan liiketoiminnan ja markkinoinnin perusteita käytännössä. Aloitin tekemällä Business Model Canvasin (BMC) ja Value Proposition Canvasin (VPC), määrittäen avainresurssit, avaintoiminnot, jakelukanavat ja asiakassuhteet palvelumme näkökulmasta.
 </p>
 
 <p>
-Opin ymmärtämään kohderyhmien merkityksen palvelumme kannalta: Overall markets (kaikki pelaajat), Potential markets (kilpailulliset PC-pelaajat) ja Target markets (pelaajat, jotka hakivat peliseuraa taitotason, oppimisen tai yhteisön kautta). Konkreettiset segmentit (nuoret kilpailulliset pelaajat, aloittelijat, tavoitteelliset ja sosiaalisuutta hakevat) auttoivat hahmottamaan, miten palvelu voisi palvella erilaisia käyttäjiä.
-</p>
+Opin ymmärtämään kohderyhmien merkityksen palvelumme kannalta: Overall markets (kaikki pelaajat), Potential markets (kilpailulliset PC-pelaajat) ja Target markets (pelaajat, jotka hakivat peliseuraa taitotason, oppimisen tai yhteisön kautta). Näitä segmenttejä määritellessä ja miettiessä hahmotin paremmin, miten palvelu voisi palvella erilaisia käyttäjiä ja heidän tarpeitaan.
 
 <p>
 Suunnittelin Figmassa ”kutsu kaveri” -sähköpostin simuloidun viraalikampanjan ja uutiskirjemallin, joilla harjoittelin viestinnän ja brändin rakentamista. Vaikka materiaaleja ei vielä julkaistu, harjoitus auttoi ymmärtämään, miten käyttäjäkokemusta voidaan tukea markkinoinnin keinoin.
@@ -143,7 +144,7 @@ Opintojakson alussa minulla oli perustaso UI/UX-suunnittelussa, graafisen sisäl
 </p>
 
 <p>
-Opintojakson edetessä opin hyödyntämään Auto Layoutia Figma-työkalussa, suunnittelemaan skaalautuvia ja komponenttipohjaisia käyttöliittymiä sekä siirtämään suunnitelmia sujuvasti frontend-toteutukseen Angularissa. Samalla kehitin tiimityö-, projektinhallinta- ja liiketoimintaosaamistani käytännössä.
+Opintojakson edetessä opin hyödyntämään Auto Layoutia Figma-työkalussa, suunnittelemaan skaalautuvia ja komponenttipohjaisia käyttöliittymiä sekä siirtämään suunnitelmia sujuvasti frontend-toteutukseen Angularissa (vieläkin oppimista). Samalla kehitin tiimityö-, projektinhallinta- ja liiketoimintaosaamistani käytännössä.
 </p>
 
 <p>
